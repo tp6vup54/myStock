@@ -1,0 +1,5 @@
+[SQLITE]
+location = location
+
+[GOOGLE_SHEET]
+sheet_name = name
